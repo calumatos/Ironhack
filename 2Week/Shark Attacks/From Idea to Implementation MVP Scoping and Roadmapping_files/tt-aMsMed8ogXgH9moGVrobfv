@@ -1,1 +1,0 @@
-console.log("Channel is not active"); window.postMessage({type: "surveyChannelPaused", data: "Channel is not active"}, "*");
